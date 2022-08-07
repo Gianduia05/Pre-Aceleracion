@@ -1,6 +1,6 @@
 package com.alkemy.icons.icons.Entity;
 
-public @interface JoiunColumn {
+public @interface JoinColumn {
     String name();
 
     boolean insertable();
